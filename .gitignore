@@ -1,0 +1,8 @@
+**.exe
+wiener_filter.exe
+wiener_filter
+.pytest_cache/
+__pycache__/
+main
+main_debug
+output.txt
