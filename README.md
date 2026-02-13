@@ -4,7 +4,7 @@ An Assembly-based implementation of the Wiener Filter algorithm for image proces
 
 ## 📋 Overview
 
-This project implements the Wiener Filter, a fundamental signal processing technique used for image denoising and restoration. The implementation combines **Assembly code** (81.3%) for performance-critical operations with **Python** (9.7%) and **C++** (9%) for support utilities and testing.
+This project implements the Wiener Filter, a fundamental signal processing technique used for image denoising and restoration. 
 
 ## 🎯 Purpose
 
@@ -18,17 +18,7 @@ This repository demonstrates:
 
 - **Assembly Code**: Core Wiener Filter implementation optimized for performance
 - **Python Scripts**: Testing, visualization, and result analysis
-- **C++ Utilities**: Helper functions and additional processing tools
-
-## 🛠️ Requirements
-
-Before running this project, ensure you have the following installed:
-
-- **Assembler**: NASM (Netwide Assembler) or compatible
-- **Linker**: GNU LD or compatible
-- **Python**: 3.7 or higher (for testing and visualization)
-- **C++ Compiler**: GCC or Clang (for C++ components)
-- **Build Tools**: Make (optional but recommended)
+- **C++ Utilities**: Helper functions and additional processing tools to understand the code flow and easily convert it into assembly
 
 ## 🚀 Getting Started
 
@@ -64,9 +54,9 @@ python test.py
 
 ## 📊 Language Composition
 
-- **Assembly**: 81.3% - Core algorithm implementation
-- **Python**: 9.7% - Testing and visualization
-- **C++**: 9% - Utility functions
+- **Assembly**: Core algorithm implementation
+- **Python**: Testing and visualization
+- **C++**: Utility functions
 
 ## 📚 References
 
